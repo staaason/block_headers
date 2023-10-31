@@ -1,0 +1,12 @@
+[package]
+name = "block_headers"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+web3 = { git = "https://github.com/staaason/rust-web3", rev = "bede276363e157750688da409f3b48471079d7ca" }
+serde_json = "1.0"
+dotenv = "0.15.0"
+tokio = { version = "1", features = ["full"] }

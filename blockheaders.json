@@ -1,0 +1,25 @@
+[{
+  "author": "0x5a0b54d5dc17e0aadc383d2db43b0a0d3e029c4c",
+  "base_fee_per_gas": null,
+  "blob_gas_used": null,
+  "difficulty": "0x194003f6b8332a",
+  "excess_blob_gas": null,
+  "extra_data": "0xd883010a03846765746888676f312e31362e35856c696e7578",
+  "gas_limit": "0xe4e1c0",
+  "gas_used": "0xe4ab5e",
+  "hash": "0xe675fe5323f0de1a061c137f3ee468cd26d9aea23cc2f58f894218c90a4fceae",
+  "logs_bloom": "0x51334bd36bb54a193103a045c0cfabd55f1699c20c12058ec0919961143288f6920beb4a358451717b415d7679291132cae7ddaa5b02e9b1a6d1ead42e744a1055418042c20329ac0c4a347e5c1162f112c8a014cae043012a4c7444c8e451b87e6b1d2cdfce8b70313eb190e20c18fbc611d6b5d0b015783aae84b2ca9d20a64ea6843246536d1491df805c8186823556850b499914056f873064ea393e81aee25f400d72a722e7b7bee38bc8123c33dd64984dca6b0a0205e73eef9829188df04ca1a30a13c2fd2de51a61ce4c55598a7c3a489e7324fc6ce8cb8f0ac3aa803bb8ed510ae1406f88429dfa9b5a679261471a1ae4e0c2c0bc4ec698ce2779b5",
+  "mix_hash": "0x124ad7fe816ea8fe3a7b4e3ff3633cccf6b4e415d528b69f5bbc6a08da45a1ec",
+  "nonce": "0x5b0598607af8a656",
+  "number": 12901568,
+  "parent_beacon_root": null,
+  "parent_hash": "0x6f73f6231a79121c3dea3ab97b12826a871918b0ab3844f954dafcbbdb755016",
+  "receipts_root": "0xcd3c587d5b3276045383224b89b3019b4d9a038a9e4587eca5e55d6f5256e23a",
+  "state_root": "0x6178554b5166b439827d2863b3e82f9704cb9f76f4f86f7fc744489491d99b54",
+  "timestamp": "0x60fe9d30",
+  "transactions_root": "0xd8bc10c5883bb6dd26e92b28ece564f24ddeb404b0207b110fe2cdf81e2d194b",
+  "uncles": [],
+  "uncles_hash": "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
+  "withdrawals_root": null
+}
+]
