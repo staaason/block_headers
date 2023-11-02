@@ -81,7 +81,6 @@ async fn main() {
                     }
                 }
             }
-            block.number
             let json_data = json!({
                 "number": block.number,
                 "hash": block.hash,
